@@ -1,4 +1,4 @@
-# Hi, I'm Sourovmoy 👋
+# Hi, I'm Sourov Dash 👋
 
 🚀 **MERN Stack Developer | JavaScript Enthusiast | Problem Solver**
 
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I love building full-stack applications using mode
 * 🌱 I’m currently exploring **Next.js**, **TypeScript**, and **MongoDB Aggregation**
 * 💡 Love solving real-world problems using JavaScript
 * 🔥 Passionate about **clean code**, **performance**, and **scalable architecture**
-* 📫 Reach me at: **[your-email@example.com](mailto:your-email@example.com)**
+* 📫 Reach me at: **[sourovmmoysanju@gmail.com](mailto:sourovmmoysanju@gmail.com)**
 * 🌍 Portfolio: *Coming Soon*
 
 ---
@@ -20,32 +20,17 @@ Welcome to my GitHub profile! I love building full-stack applications using mode
 
 ### 🚀 Frontend
 
-* React.js
-* Tailwind CSS / DaisyUI
-* Redux / Zustand
-* Next.js
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,figma)](https://skillicons.dev)
 
 ### 🛠 Backend
 
-* Node.js
-* Express.js
-* MongoDB / Mongoose
-* Firebase Auth / JWT
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,firebase)](https://skillicons.dev)
 
 ### ⚙️ Tools & Platforms
 
-* Git & GitHub
-* VS Code
-* Vercel / Netlify
-* Postman
-* Render / Railway
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel,firebase,netlify,postman)](https://skillicons.dev)
 
 ---
 
@@ -63,9 +48,10 @@ Welcome to my GitHub profile! I love building full-stack applications using mode
 
 ## 🤝 Let's Connect
 
-🌐 **LinkedIn:** [https://linkedin.com/in/YOUR-USERNAME](https://linkedin.com/in/YOUR-USERNAME)
-🐦 **Twitter:** [https://twitter.com/YOUR-USERNAME](https://twitter.com/YOUR-USERNAME)
-📦 **NPM:** [https://npmjs.com/~YOUR-USERNAME](https://npmjs.com/~YOUR-USERNAME)
+🌐 **LinkedIn:** https://www.linkedin.com/in/sourov-das-11a7b526b
+
+
+
 
 📍 *Always open to collaboration and exciting ideas!*
 
