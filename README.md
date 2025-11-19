@@ -1,4 +1,6 @@
 # Hi, I'm Sourov Dash 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F77676&width=600&lines=MERN+Stack+Developer;JavaScript+Enthusiast;Full+Stack+Web+Developer;Problem+Solver)](https://git.io/typing-svg)
+
 
 🚀 **MERN Stack Developer | JavaScript Enthusiast | Problem Solver**
 
@@ -16,11 +18,24 @@ Welcome to my GitHub profile! I love building full-stack applications using mode
 
 ---
 
+### 🔥 Current Activities
+- 🚀 Exploring **Next.js** and **Server Components**
+- 🛠 Currently working on a **Tours & Travel Website**
+- 📘 Learning **MongoDB Aggregation Pipeline**
+- ✨ Improving UI/UX skills with **Tailwind & Figma**
+
+---
+
 ## 🛠️ Tech Stack
+
+### 🚀 Design
+
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
 
 ### 🚀 Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind)](https://skillicons.dev)
 
 ### 🛠 Backend
 
@@ -48,7 +63,16 @@ Welcome to my GitHub profile! I love building full-stack applications using mode
 
 ## 🤝 Let's Connect
 
-🌐 **LinkedIn:** https://www.linkedin.com/in/sourov-das-11a7b526b
+<p align="left">
+  <a href="https://www.linkedin.com/in/sourov-das-11a7b526b/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+
+  
+ <a href="https://www.facebook.com/sourovmmoysanju" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" alt="facebook"/>
+ </a>
+</p>
 
 
 
