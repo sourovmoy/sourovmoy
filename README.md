@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I love building full-stack applications using mode
 - 🛠 Currently working on a **Tours & Travel Website**
 - 📘 Learning **MongoDB Aggregation Pipeline**
 - ✨ Improving UI/UX skills with **Tailwind & Figma**
-- ✨ Improving my skills in different platform**
+- ✨ Improving my skills on different platforms**
 
 ---
 
