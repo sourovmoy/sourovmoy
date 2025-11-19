@@ -74,7 +74,27 @@ Welcome to my GitHub profile! I love building full-stack applications using mode
  </a>
 </p>
 
+## 📊 GitHub Stats
 
+<p align="center">
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sourovmoy&color=blue" alt="Profile Views" />
+</p>
+
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourovmoy&layout=compact" 
+    height="160"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sourovmoy&radius=16" 
+  />
+</p>
 
 
 📍 *Always open to collaboration and exciting ideas!*
@@ -82,6 +102,7 @@ Welcome to my GitHub profile! I love building full-stack applications using mode
 ---
 
 ⭐ **If you like my work, consider giving my repositories a star!**
+
 
 <!--
 **sourovmoy/sourovmoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
