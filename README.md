@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./github-header-banner.png" alt="Banner" />
+</p>
+
+
 # Hi, I'm Sourov Dash 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F77676&width=600&lines=MERN+Stack+Developer;JavaScript+Enthusiast;Full+Stack+Web+Developer;Problem+Solver)](https://git.io/typing-svg)
 
