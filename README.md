@@ -89,7 +89,8 @@ Welcome to my GitHub profile! I love building full-stack applications using mode
 
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourovmoy&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourovmoy&show_icons=true&theme=radical&count_private=true&cache_seconds=86400)
+
 
 
 <p align="center">
