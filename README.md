@@ -90,10 +90,8 @@ Welcome to my GitHub profile! I love building full-stack applications using mode
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourovmoy&layout=compact" 
-    height="160"
-  />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
 </p>
 
 <p align="center">
