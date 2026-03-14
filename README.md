@@ -81,7 +81,13 @@ Welcome to my GitHub profile! I love building full-stack applications using mode
 </p>
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sourovmoy)](https://git.io/streak-stats)
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=sourovmoy&theme=transparent&ring=ff6ec7&fire=ff9a00&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=ffffff&sideNums=ffffff&dates=cccccc" 
+    alt="GitHub Streak"
+  />
+</p>
+
 <p align="center">
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sourovmoy&color=blue" alt="Profile Views" />
