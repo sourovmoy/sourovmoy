@@ -80,7 +80,7 @@ Welcome to my GitHub profile! I love building full-stack applications using mode
  </a>
 
  <a href="https://dev-sourov-dash.vercel.app" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/internet/internet-original.svg" width="40" alt="portfolio"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40" alt="portfolio"/>
 </a>
 
 <a href="https://dev-sourov-dash.vercel.app" target="_blank" rel="noopener noreferrer">
@@ -92,7 +92,7 @@ Welcome to my GitHub profile! I love building full-stack applications using mode
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=sourovmoy&theme=transparent&ring=ff6ec7&fire=ff9a00&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=ffffff&sideNums=ffffff&dates=cccccc" 
-    alt="GitHub Streak"
+    alt="GitHub Streak."
   />
 </p>
 
