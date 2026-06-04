@@ -83,7 +83,7 @@ Welcome to my GitHub profile! I love building full-stack applications using mode
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" alt="portfolio"/>
 </a>
 
-<a href="https://dev-sourov-dash.vercel.app" target="_blank" rel="noopener noreferrer">
+<a href="https://drive.google.com/file/d/1TytPzAimvtJ_yr018v1drQ53_zQNdzZ8/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" width="40" alt="resume"/>
 </a>
 </p>
