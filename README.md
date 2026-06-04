@@ -78,6 +78,10 @@ Welcome to my GitHub profile! I love building full-stack applications using mode
  <a href="https://www.facebook.com/sourovmmoysanju" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" alt="facebook"/>
  </a>
+
+ <a href="https://your-portfolio-link.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/internet/internet-original.svg" width="40" alt="portfolio"/>
+</a>
 </p>
 
 ## 📊 GitHub Stats
