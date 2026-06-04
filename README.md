@@ -79,8 +79,8 @@ Welcome to my GitHub profile! I love building full-stack applications using mode
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" alt="facebook"/>
  </a>
 
-<a href="https://dev-sourov-dash.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<a href="https://dev-sourov-dash.vercel.app" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" alt="portfolio"/>
 </a>
 
 <a href="https://dev-sourov-dash.vercel.app" target="_blank" rel="noopener noreferrer">
